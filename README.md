@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Shubham Kunal, a Java developer 👨‍💻</div>  
+### <div align="center">I'm Shubham Kunal, a Software developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently looking for work!  
-  
-
-- 🌱 Currently learning Openstack and Machine Learning 🤖  
   
 
 - ❓ Ask me about anything related to Java and Data Structures 😎  
