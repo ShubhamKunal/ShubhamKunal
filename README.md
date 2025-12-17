@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm Shubham Kunal, a Software developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently looking for work!  
-  
+    
 
 - ❓ Ask me about anything related to Data Structures 😎  
   
