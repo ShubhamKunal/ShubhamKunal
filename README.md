@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shubham Kunal, a Software developer 👨‍💻</div>  
+### <div align="center">I'm Shubham Kunal, a Software Engineer 👨‍💻</div>  
     
 
 - ❓ Ask me about anything related to Data Structures 😎  
